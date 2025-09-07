@@ -1,0 +1,27 @@
+
+
+{
+  "login_button_selector": "button[data-testid='login-button']", 
+  "login_button_by": "CSS",
+  "email_selector": "input[name='email']",
+  "email_by": "CSS",
+  "password_selector": "input[name='password']",
+  "password_by": "CSS",
+  "login_submit_selector": "button[type='submit']",
+  "login_submit_by": "CSS",
+  "login_check_selector": ".profile-avatar, .user-balance", 
+  "login_check_by": "CSS",
+  "login_check_timeout": 60,
+  "bet_amount_selector": "input.bet-amount",
+  "bet_amount_by": "CSS",
+  "bet_amount_fixed": null,
+  "bet_amount_min": 0.0001,
+  "bet_amount_max": 0.001,
+  "roll_button_selector": "button.roll-button",
+  "roll_button_by": "CSS",
+  "result_selector": ".last-result",
+  "result_by": "CSS",
+  "balance_selector": ".balance-value",
+  "balance_by": "CSS",
+  "between_rounds_delay": 1.0
+}
